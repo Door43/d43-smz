@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smz:home|Door43 (smz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smz|d43-smz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smz/archive/master.zip|d43-smz.zip]]
+
+**Recent Changes**
+{{changes>ns = smz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smz|Ethnologue data]]
+
